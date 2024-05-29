@@ -1,0 +1,44 @@
+*{
+    list-style-type:none;
+    font-weight: 700;
+}
+
+.logo{
+    display: flex;
+    text-align: center; 
+
+}
+ul{
+    display: flex;
+    gap:20px;
+}
+
+.Navbar{
+    display: flex;
+    justify-content: space-around;
+    text-align: justify;
+
+}
+
+.button{
+    gap:39px;
+}
+
+.green{
+    background-color: rgb(43, 113, 48);
+    color:white;
+    padding:10px;
+    border: none;
+    border-radius: 3px;
+}
+
+.p{
+    /* background-color: rgb(43, 113, 48); */
+    color:rgb(88, 86, 86);
+    padding:10px;
+    border: none;
+    background: transparent;
+
+
+}
+
